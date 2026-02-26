@@ -1,49 +1,31 @@
 # ⚙️ Splar Machinery Website
 
-**Splar Machinery** is a corporate website developed for an industrial machinery company.
-The system provides an online platform to showcase products, company information, and business services.
+Splar Machinery is a corporate website developed for an industrial machinery company.
+It provides a digital platform to present products, company information, and business services in a structured and user-friendly way.
 
 ---
 
-## 🚀 Features
+## 🛠 Technologies Used
 
-* Product showcase
-* Company information pages
-* Contact enquiry system
-* Blog and updates section
-* Career opportunities page
-* Admin panel for content management
+**Frontend**
 
----
+* HTML
+* CSS
+* JavaScript
 
-## 🛠 Tech Stack
+**Backend**
 
-* **Backend:** PHP, MySQL
-* **Frontend:** HTML, CSS, JavaScript
-* **Server:** XAMPP (Apache & MySQL)
+* PHP
+* MySQL
 
 ---
 
-## 💻 How to Run
+## ✨ Description
 
-1. Download or clone the project
-2. Place the folder inside:
-
-```
-C:\xampp\htdocs\
-```
-
-3. Start **Apache** and **MySQL** in XAMPP
-
-4. Open in browser:
-
-```
-http://localhost/project-folder-name
-```
+This project is a dynamic business website that includes product display, company details, and content management functionality through an admin interface.
 
 ---
 
 ## 👩‍💻 Author
 
-**Suchitha H S**
-Software Engineering Student
+Suchitha H S
